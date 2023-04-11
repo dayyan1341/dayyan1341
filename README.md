@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohd Dayyan Ali
+- Hi 👋, I’m Mohd Dayyan Ali
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning backend development 
 - 📫 dayyan1341@gmail.com
