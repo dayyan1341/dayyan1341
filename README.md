@@ -1,7 +1,7 @@
 - Hi 👋, I’m Mohd Dayyan Ali
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning backend development 
-- 📫 dayyan1341@gmail.com
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning corporate 
+- 📫 ali.dayyan@outlook.com
 
 
 <!--
